@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shopoholic/static/css/main.ea0b0019.css",
+    "main.js": "/Shopoholic/static/js/main.22e91c52.js",
+    "index.html": "/Shopoholic/index.html",
+    "main.ea0b0019.css.map": "/Shopoholic/static/css/main.ea0b0019.css.map",
+    "main.22e91c52.js.map": "/Shopoholic/static/js/main.22e91c52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0b0019.css",
+    "static/js/main.22e91c52.js"
+  ]
+}
